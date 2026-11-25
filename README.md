@@ -1,4 +1,6 @@
-# clear
+[![wakatime](https://wakatime.com/badge/github/Drewlius/Clear.svg)](https://wakatime.com/badge/github/Drewlius/Clear)
+
+# Clear 
 
 A minimal agent harness: one chat loop, one OpenAI-compatible provider, one tool.
 
